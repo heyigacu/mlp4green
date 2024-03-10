@@ -113,5 +113,6 @@ def train():
     model = MLP(n_feats=n_feats, n_hiddens=n_hiddens, n_tasks=n_tasks)
     all = BaseDataLoader.load_data_all_torch_batchsize(tuple_ls, batchsize, drop_last=True)
     train_mlp.train_bi_classify_all(model, all=all, best_epochs=best_epochs, patience=7, save_folder=parent_dir+'/pretrained/',save_name='all_mlp.pth')
-
+    
+total()
 train()
