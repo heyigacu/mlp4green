@@ -1,0 +1,643 @@
+Name	Smiles	Odor	Reference
+(Z)-2-nonenal	CCCCCC/C=C\C=O	green	Odour Database on the Web
+4-isopropenylpyridine	CC(=C)C1=CC(=NC=C1)C(=O)C  	green	Odour Database on the Web
+2-octenal	CCCCC/C=C/C=O 	green	Odour Database on the Web
+2-isobutyl-3-methoxypyrazine	CC(C)CC1=NC=CN=C1OC 	green	Odour Database on the Web
+(Z)-4-decenal	CCCCC/C=C\CCC=O	green	Odour Database on the Web
+2-tridecanone	CCCCCCCCCCCC(=O)C	green	Odour Database on the Web
+nonanal	CCCCCCCCC=O	green	Odour Database on the Web
+2-butylpyridine	 CCCCC1=CC=CC=N1	green	Odour Database on the Web
+2,3-dimethylpyrazine	CC1=NC=CN=C1C	green	Odour Database on the Web
+4-butyloxazole	CCCCC1=COC=N1	green	Odour Database on the Web
+4-methyl-5-propyloxazole	CCCC1=C(N=CO1)C	green	Odour Database on the Web
+4-methyl-5-butyloxazole	CCCCC1=C(N=C(O1)C2=CC=CC=C2)C	green	Odour Database on the Web
+4-ethyl-5-propyloxazole	CCCC1=C(N=C(O1)C)CC	green	Odour Database on the Web
+4-ethyl-5-butyloxazole	CCCCC1=C(N=C(O1)C)CC	green	Odour Database on the Web
+4-ethyl-5-pentyloxazole	CCCCCC1=C(N=CO1)CC	green	Odour Database on the Web
+(E)-2-dodecenal	CCCCCCCCC/C=C/C=O	green	Odour Database on the Web
+2,4-diethyl-5-propyloxazole	CCCC1=C(N=C(O1)CC)CC 	green	Odour Database on the Web
+2,4-dimethyl-5-ethyl-3-oxazoline	CCC1C(=NC(O1)C)C	green	Odour Database on the Web
+bis(1-mercaptopropyl)sulfide	CCC(S)SC(CC)S	green	Odour Database on the Web
+ethyl hexanoate	CCCCCC(=O)OCC	green	Odour Database on the Web
+6-pentyl-alpha-pyrone	CCCCCC1=CC=CC(=O)O1 	green	Odour Database on the Web
+(Z)-4-octen-1-yl 3-methylbutanoate	CCC/C=C\CCCOC(=O)CC(C)C	green	Odour Database on the Web
+ethanal	CC=O 	green	Odour Database on the Web
+2-methylpropanal	CC(C)C=O	green	Odour Database on the Web
+hexan-2-yl pentanoate	CCCCC(C)OC(=O)CCCC	green	Odour Database on the Web
+4-isobutyl-5-ethoxy-2-methylthiazole	CCOC1=C(N=C(S1)C)CC(C)C	green	Odour Database on the Web
+2-ethylpyrazine	CCC1=NC=CN=C1 	green	Odour Database on the Web
+5-butyloxazole	CCCCC1=CN=CO1 	green	Odour Database on the Web
+4,5-dimethyloxazole	CC1=C(OC=N1)C	green	Odour Database on the Web
+2-propyl-3-thiazoline	CCCC1N=C(CS1)C(=O)OC	green	Odour Database on the Web
+2-propylthiazole	CCCC1=NC=CS1	green	Odour Database on the Web
+butanoic acid (butyric acid)	CSCC[C@@H](C(=O)O)N	green	Odour Database on the Web
+2,6-dimethyl-5-heptenal	CC(CCC=C(C)C)C=O 	green	Odour Database on the Web
+2-nonanone	CCCCCCCC(=O)C 	green	Odour Database on the Web
+2,4,6-triethyl-1,3,5-trithiane	CCC1SC(SC(S1)CC)CC	green	Odour Database on the Web
+3-(methylthio)heptanal	CCCCC(CC=O)SC 	green	Odour Database on the Web
+2-(2',3'-epoxy-3'-methylbutyl)-3-methylfuran	CC1=C(OC=C1)CC2C(O2)(C)C	green	Odour Database on the Web
+3-hydroxy-2-butanone (acetoin)	CC(C(=O)C)O	green	Odour Database on the Web
+4-propyl-5-methyloxazole	CCCCC1=NC(=C(O1)C)CCC 	green	Odour Database on the Web
+decanal	CCCCCCCCCC=O	green	Odour Database on the Web
+4,5-diethyloxazole	CCCCC1=NC(=C(O1)CC)CC	green	Odour Database on the Web
+2-methylthiazole	CC1=NC=CS1	green	Odour Database on the Web
+2-isopropylthiazole	CC(C)C1=NC=CS1 	green	Odour Database on the Web
+2-isopropylpyridine	CC(C)C1=CC=CC=N1	green	Odour Database on the Web
+2-propylpyrazine	CCCC1=NC=CN=C1  	green	Odour Database on the Web
+2-butoxypyrazine	CCCCOC1=NC=CN=C1	green	Odour Database on the Web
+2-ethylpyridine	CCC1=CC=CC=N1 	green	Odour Database on the Web
+2,3-dimethylpentanal (2,3-dimethylvaleraldehyde)	CCC(C)C(C)C=O	green	Odour Database on the Web
+2-ethylthiazole	CCC1=NC=CS1 	green	Odour Database on the Web
+2-isopropylpyrazine	CC(C)C1=NC=CN=C1 	green	Odour Database on the Web
+4-methylthiazole	CC1=CSC=N1  	green	Odour Database on the Web
+2-(3'-methyl-2'-butenyl)-3-methylfuran	CC1=C(OC=C1)CC=C(C)C	green	Odour Database on the Web
+hexanal	CCCCCC=O	green	Odour Database on the Web
+(Z)-3-hexen-1-ol	CC/C=C\CCO	green	Odour Database on the Web
+1-(2-furfuryl)pyrrole (N-furfurylpyrrole)	C1=CN(C=C1)CC2=CC=CO2 	green	Odour Database on the Web
+2-isobutylpyrazine	CC(C)CC1=NC=CN=C1 	green	Odour Database on the Web
+(E)-2-heptenal	CCCC/C=C/C=O	green	Odour Database on the Web
+2-pentenal	CC/C=C/C=O	green	Odour Database on the Web
+3-methylbutanol (isoamyl alcohol)	CC(C)CCO	green	Odour Database on the Web
+2-butyl-5-methylfuran	CCCCC1=CC=C(O1)C	green	Odour Database on the Web
+3-methylpyridine (beta-picoline)	CC1=CN=CC=C1	green	Odour Database on the Web
+3,4-dimethylpyridine	CC1=C(C=NC=C1)C	green	Odour Database on the Web
+O-decylhydroxylamine	CCCCCCCCCCON 	green	Odour Database on the Web
+(Z)-3,7-dimethyl-3,6-octadienal	CC(=CC/C=C(\C)/CC=O)C 	green	Odour Database on the Web
+(E)-3,7-dimethyl-3,6-octadienal	CC(=CC/C=C(\C)/CC=O)C	green	Odour Database on the Web
+2,4,5-trimethyloxazole	CC1=C(OC(=N1)C)C 	green	Odour Database on the Web
+methyl-4,5-dimethyl-3,6-dihydro-(2H)-pyran-2-carboxylate	CC1=C(COC(C1)C(=O)OC)C	green	Odour Database on the Web
+2-hexenol	CCC/C=C/CO  	green	Flavornet
+coumarin	C1=CC=C2C(=C1)C=CC(=O)O2	green	Flavornet
+menthone	C[C@@H]1CC[C@H](C(=O)C1)C(C)C 	green	Flavornet
+(+)-cis-rose oxide	C[C@H]1CCO[C@H](C1)C=C(C)C	green	Flavornet
+2-ethylhexanol	CCCCC(CC)CO	green	Flavornet
+6-decenal	CCC/C=C/CCCCC=O	green	Flavornet
+dimethylheptenal	CCCCC(=C(C)C=O)C	green	Flavornet
+heptanol	CCCCCCCO 	green	Flavornet
+nonanoic acid	CCCCCCCCC(=O)O	green	Flavornet
+undecanone	CCCCCCCCCC(=O)C	green	Flavornet
+methyl geranate	CC(=CCC/C(=C/C(=O)OC)/C)C 	green	Flavornet
+isobornyl formate	C[C@@]12CC[C@@H](C1(C)C)C[C@H]2OC=O	green	Flavornet
+epoxy-2-decenal	CCCCC[C@H]1[C@@H](O1)/C=C/C=O 	green	Flavornet
+cis-linalool pyran oxide	C[C@@]1(CC[C@H](C(O1)(C)C)O)C=C 	green	Flavornet
+nonanol	CCCCCCCCCO 	green	Flavornet
+alpha,γ-dimethylallyl alcohol	C/C=C/C(C)O  	green	Flavornet
+(Z)-3-hexenyl butanoate	CCCC(=O)OCC/C=C\CC 	green	Flavornet
+isobutyl thiazole	CC(C)CC1=NC=CS1  	green	Flavornet
+α-thujene	CC1=CCC2(C1C2)C(C)C  	green	Flavornet
+fucoserratene	CC/C=C\C=C\C=C	green	Flavornet
+geranyl acetone	CC(=CCC/C(=C/CCC(=O)C)/C)C  	green	Flavornet
+valencene	C[C@@H]1CCC=C2[C@]1(C[C@@H](CC2)C(=C)C)C  	green	Flavornet
+1-hexenol	CCCC(C=C)O  	green	Flavornet
+(E)-2-undecenal	CCCCCCCC/C=C/C=O 	green	Flavornet
+artemisia ketone	CC(=CC(=O)C(C)(C)C=C)C  	green	Flavornet
+viridiflorol	C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O  	green	Flavornet
+butyl isothiocyanate	CCCCN=C=S  	green	Flavornet
+2-pentanol	 CCCC(C)O 	green	Flavornet
+elemol	CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O  	green	Flavornet
+cis-isocitral	CC(=CC/C=C(/C)\CC=O)C  	green	Flavornet
+dimethyloctadienal	CC(=CC/C=C(\C)/CC=O)C  	green	Flavornet
+bornyl isovalerate	CC(C)CC(=O)OC1CC2CCC1(C2(C)C)C 	green	Flavornet
+isobutyraldehyde	CC(C)C=O  	green	Flavornet
+2,4-hexadienal	C/C=C/C=C/C=O  	green	Flavornet
+trimethylphenylbutenone	CC1=C(C(=C(C=C1)C)/C=C\C(=O)C)C  	green	Flavornet
+nonanone	CCCCCCCC(=O)C  	green	Flavornet
+(epoxymethylbutyl)-methylfuran	CC1=C(OC=C1)CC2C(O2)(C)C  	green	Flavornet
+(3Z)-Hexenol	CCCC/C=C\O  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+(3E)-Hexenol	CC/C=C\CCO  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+(3Z)-Hexenal	CC/C=C\CC=O  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+(3E)-Hexenal	CC/C=C/CC=O  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+(2E)-Hexenal	CCC/C=C/C=O  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+n-Hexanol	CCCCCCO  	green	https://www.tandfonline.com/doi/abs/10.1080/87559129609541083 
+acetaldehyde benzyl 2-methoxyethyl acetal	CC(OCCOC)OCC1=CC=CC=C1	green	The Good Scents Company Information System
+acetaldehyde butyl phenethyl acetal	CCCCOC(C)OCCC1=CC=CC=C1	green	The Good Scents Company Information System
+acetaldehyde di-(Z)-3-hexen-1-yl acetal	CC/C=C\CCOC(OCC/C=C\CC)C	green	The Good Scents Company Information System
+acetaldehyde dihexyl acetal	CCCCCCOC(C)OCCCCCC	green	The Good Scents Company Information System
+acetaldehyde dipropyl acetal	CCCOC(C)OCCC	green	The Good Scents Company Information System
+acetaldehyde methyl hexyl acetal	CCCCCCOC(C)OC	green	The Good Scents Company Information System
+2-acetyl-4-isopropyl pyridine	CC(C)C1(C(=O)N(C(=N1)C2=C(C=CC(=N2)COC(=O)C)C(=O)OC)C(=O)C)C	green	The Good Scents Company Information System
+agrumen aldehyde	CC1CC(CC(=C1)C)C=O	green	The Good Scents Company Information System
+allyl anthranilate	C=CCOC(=O)C1=CC=CC=C1N	green	The Good Scents Company Information System
+allyl phenethyl ether	C=CCOCCC1=CC=CC=C1	green	The Good Scents Company Information System
+allyl phenoxyacetate	C=CCOC(=O)COC1=CC=CC=C1	green	The Good Scents Company Information System
+allyl tiglate	C/C=C(\C)/C(=O)OCC=C	green	The Good Scents Company Information System
+iso amyl 3-(2-furan) propionate	CC(C)CCOC(=O)CCC1=CC=CO1	green	The Good Scents Company Information System
+benzaldehyde diethyl acetal	CCOC(C1=CC=CC=C1)OCC	green	The Good Scents Company Information System
+benzaldehyde dimethyl acetal	COC(C1=CC=CC=C1)OC	green	The Good Scents Company Information System
+1,4-benzodioxin-2(3H)-one	C1C(=O)OC2=CC=CC=C2O1	green	The Good Scents Company Information System
+benzyl hexanoate	CCCCCC(=O)OCC1=CC=CC=C1	green	The Good Scents Company Information System
+bicyclogermacrene	C/C/1=C\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C 	green	The Good Scents Company Information System
+beta-bisabolenal	CC(=CCCC(=C)C1CCC(=CC1)C=O)C	green	The Good Scents Company Information System
+bornyl formate	CC1(C2CCC1(C(C2)OC=O)C)C	green	The Good Scents Company Information System
+bornyl salicylate	CC1(C2CCC1(C(C2)OC(=O)C3=CC=CC=C3O)C)C 	green	The Good Scents Company Information System
+iso butyl benzyl carbinol	CC(C)CC(CC1=CC=CC=C1)O	green	The Good Scents Company Information System
+butyl heptanoate	CCCCCCC(=O)OCCCC	green	The Good Scents Company Information System
+butyl lactate	CCCCOC(=O)C(C)O	green	The Good Scents Company Information System
+4-butyl-5-methyl thiazole	CCCCC1=C(SC=N1)C	green	The Good Scents Company Information System
+2-butyl-4-methyl-1,3-oxathiane	CCCCC1OCCC(S1)C	green	The Good Scents Company Information System
+2-iso butyl pyrazine	CC(C)CC1=NC=CN=C1	green	The Good Scents Company Information System
+2-butyl pyridine	CCCCC1=CC=CC=N1	green	The Good Scents Company Information System
+2-butyl thiazole	CCCCC1=NC=CS1	green	The Good Scents Company Information System
+2-iso butyl thiazole	CC(C)CC1=NC=CS1	green	The Good Scents Company Information System
+4-butyl thiazole	 CCCCC1=CSC=N1	green	The Good Scents Company Information System
+iso butyl isothiocyanate	CC(C)CN=C=S	green	The Good Scents Company Information System
+beta-cadinene	CC1=CC[C@@H]2[C@@H](C1)[C@@H](CC=C2C)C(C)C	green	The Good Scents Company Information System
+carvyl acetate	CC1=CCC(CC1OC(=O)C)C(=C)C	green	The Good Scents Company Information System
+chrysanthemum oxide	COCCC1=CC=CC=C1	green	The Good Scents Company Information System
+cinnamaldehyde dimethyl acetal	COC(/C=C/C1=CC=CC=C1)OC	green	The Good Scents Company Information System
+(Z)-isocitral	CC(=CC/C=C(/C)\CC=O)C	green	The Good Scents Company Information System
+citral / diisotridecyl acetal	C/C=C(\C)/C/C=C(\C)/CC(OCCCCCCCCCCC(C)C)OCCCCCCCCCCC(C)C  	green	The Good Scents Company Information System
+citral diethyl acetal	CCOC(/C=C(\C)/CCC=C(C)C)OCC	green	The Good Scents Company Information System
+cognac heptanone	CC(C)CC(=O)CC(C)C 	green	The Good Scents Company Information System
+cortex pyridine	C1=CC=C(C=C1)CCCC2=CC=CC=N2	green	The Good Scents Company Information System
+coumane	C1[C@H]2[C@@H]1C(=O)OC3=CC=CC=C23	green	The Good Scents Company Information System
+2-cyclohexyl propionaldehyde	CC(C=O)C1CCCCC1  	green	The Good Scents Company Information System
+decanal propylene glycol acetal	CCCCCCCCCC1OCC(O1)C  	green	The Good Scents Company Information System
+2,4,7-decatrienal	CC/C=C/C/C=C/C=C/C=O 	green	The Good Scents Company Information System
+(E,E,Z)-2,4,7-decatrienal	CC/C=C\C/C=C/C=C/C=O  	green	The Good Scents Company Information System
+dehydroxylinalool oxide	CC1(CCCC(O1)(C)C=C)C  	green	The Good Scents Company Information System
+2,5-diethyl-4-methyl thiazole	CCC1=C(N=C(S1)CC)C	green	The Good Scents Company Information System
+3,4-dimethoxystyrene	COC1=C(C=C(C=C1)C=C)OC 	green	The Good Scents Company Information System
+alpha,alpha-dimethyl benzyl alcohol	CC(C)(C1=CC=CC=C1)O  	green	The Good Scents Company Information System
+2,5-dimethyl bicyclo(3.2.1)oct-2-ene	CC1=CCC2(CCC1C2)C  	green	The Good Scents Company Information System
+2,3-dimethyl-5-isobutyl pyrazine	CC1=NC=C(N=C1C)CC(C)C  	green	The Good Scents Company Information System
+para-dimethyl hydroquinone	COC1=CC=C(C=C1)OC  	green	The Good Scents Company Information System
+2,3-dimethyl valeraldehyde	CCC(C)C(C)C=O  	green	The Good Scents Company Information System
+diphenyl methane	C1=CC=C(C=C1)CC2=CC=CC=C2  	green	The Good Scents Company Information System
+diphenyl oxide	C1=CC=C(C=C1)OC2=CC=CC=C2	green	The Good Scents Company Information System
+2,6-dipropyl-5,6-dihydro-2H-thiopyran-3-carboxaldehyde	CCCC1CC=C(C(S1)CCC)C=O  	green	The Good Scents Company Information System
+dodecanal dimethyl acetal	CCCCCCCCCCCC(OC)OC  	green	The Good Scents Company Information System
+2-dodecenal	CCCCCCCCC/C=C/C=O  	green	The Good Scents Company Information System
+(-)-gamma-elemene	CC(=C1CC[C@]([C@H](C1)C(=C)C)(C)C=C)C  	green	The Good Scents Company Information System
+alpha-elemol	CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O 	green	The Good Scents Company Information System
+2,3-epoxypinane	CC1(C2CC1C3(C(C2)O3)C)C  	green	The Good Scents Company Information System
+1-ethoxyethyl acetate	CCOC(C)OC(=O)C  	green	The Good Scents Company Information System
+ethyl 2-benzyl butyrate	CCOC(=O)C(CC1=CC=CC=C1)C(=O)C 	green	The Good Scents Company Information System
+2-ethyl butyraldehyde	CCC(CC)C=O  	green	The Good Scents Company Information System
+ethyl (E,Z)-2,4-decadienoate	 CCCCC/C=C\C=C\C(=O)OCC  	green	The Good Scents Company Information System
+ethyl (E)-2-decenoate	CCCCCCC/C=C/C(=O)OCC  	green	The Good Scents Company Information System
+ethyl (E)-4-decenoate	CCCCC/C=C/CCC(=O)OCC  	green	The Good Scents Company Information System
+2-ethyl-4,5-dimethyl oxazole	CCC1=NC(=C(O1)C)C 	green	The Good Scents Company Information System
+2-ethyl-2-heptenal	CCCC/C=C(\CC)/C=O  	green	The Good Scents Company Information System
+ethyl (Z)-4-heptenoate	CC/C=C\CCC(=O)OCC  	green	The Good Scents Company Information System
+ethyl 3-oxohexanoate	CCCC(=O)CC(=O)OCC  	green	The Good Scents Company Information System
+ethyl (E)-3-hexenoate	CC/C=C\CC(=O)OCC  	green	The Good Scents Company Information System
+ethyl phenoxyacetate	CCOC(=O)COC1=CC=CC=C1  	green	The Good Scents Company Information System
+2-ethyl pyridine	CCC1=CC=CC=N1  	green	The Good Scents Company Information System
+ethylene glycol diacetate	CC(=O)OCCOC(=O)C  	green	The Good Scents Company Information System
+(Z)-beta-farnesene	CC(=CCC/C(=C\CCC(=C)C=C)/C)C  	green	The Good Scents Company Information System
+farnesyl acetate	CC(=CCC/C(=C/CC/C(=C/COC(=O)C)/C)/C)C 	green	The Good Scents Company Information System
+1-furfuryl pyrrole	C1=CN(C=C1)CC2=CC=CO2  	green	The Good Scents Company Information System
+3-(2-furyl) acrolein	C1=COC(=C1)/C=C/C=O  	green	The Good Scents Company Information System
+2,4-heptadienal	CC/C=C/C=C/C=O  	green	The Good Scents Company Information System
+(E,E)-2,4-heptadien-1-ol	CC/C=C/C=C/CO	green	The Good Scents Company Information System
+2-heptenal	CCCC/C=C/C=O  	green	The Good Scents Company Information System
+2-heptenoic acid	CCCC/C=C/C(=O)O  	green	The Good Scents Company Information System
+2-heptyl furan	CCCCCCCC1=CC=CO1  	green	The Good Scents Company Information System
+heptyl heptanoate	CCCCCCCOC(=O)CCCCCC  	green	The Good Scents Company Information System
+2-heptyl pyridine	CCCCCCCC1=CC=CC=N1 	green	The Good Scents Company Information System
+(E,E)-2,4-hexadienal	C/C=C/C=C/C=O 	green	The Good Scents Company Information System
+(E,E)-2,4-hexadien-1-ol	C/C=C/C=C/CO  	green	The Good Scents Company Information System
+hexanal butane-2,3-diol acetal	CCCCCC1OC(C(O1)C)C 	green	The Good Scents Company Information System
+(E)-2-hexenal	CCC/C=C/C=O 	green	The Good Scents Company Information System
+(Z)-2-hexenal	CCC/C=C\C=O  	green	The Good Scents Company Information System
+(E)-3-hexenal	 CC/C=C/CC=O  	green	The Good Scents Company Information System
+(Z)-3-hexenal	 CC/C=C\CC=O  	green	The Good Scents Company Information System
+(E)-4-hexenal	C/C=C/CCC=O  	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl acetate	CC/C=C\CCOC(=O)C  	green	The Good Scents Company Information System
+1-hexen-3-yl acetate	CCCC(C=C)OC(=O)C  	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl angelate	 CC/C=C\CCOC(=O)/C(=C\C)/C  	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl benzoate	CC/C=C\CCOC(=O)C1=CC=CC=C1  	green	The Good Scents Company Information System
+2-hexenyl hexanoate	CCCCCC(=O)OC/C=C/CCC	green	The Good Scents Company Information System
+2,4-ivy carbaldehyde	CC1C=C(CCC1C=O)C  	green	The Good Scents Company Information System
+3,5-ivy carbaldehyde	CC1CC(CC(=C1)C)C=O  	green	The Good Scents Company Information System
+3,6-ivy carbaldehyde	CC1CC=C(CC1C=O)C 	green	The Good Scents Company Information System
+ivy carbaldehyde / methyl anthranilate schiff's base	CC1C=CCCC1(C)C=O  	green	The Good Scents Company Information System
+(+)-(E)-limonene oxide	CC(=C)[C@@H]1CC[C@@]2(C(C1)O2)C	green	The Good Scents Company Information System
+1-methoxy-2,7-octadiene	COC/C=C/CCCC=C  	green	The Good Scents Company Information System
+2-methoxypyridine	COC1=CC=CC=N1  	green	The Good Scents Company Information System
+3-(5-methyl-2-furyl) butanal	CC1=CC=C(O1)C(C)CC=O 	green	The Good Scents Company Information System
+6-methyl heptanal	CC(C)CCCCC=O  	green	The Good Scents Company Information System
+methyl heptine carbonate	CCCCCC#CC(=O)OC 	green	The Good Scents Company Information System
+methyl (E)-3-hexenoate	CC/C=C/CC(=O)OC 	green	The Good Scents Company Information System
+5-methyl-5-hexen-2-one	CC(=C)CCC(=O)C  	green	The Good Scents Company Information System
+1,5-dimethyl-3-isopropyl-2-oxabicyclo(2.2.2)octane	CC1CC2(CCC1C(O2)C(C)C)C 	green	The Good Scents Company Information System
+3-methyl-3-pentanol	CCC(C)(CC)O	green	The Good Scents Company Information System
+methyl 4-pentenoate	COC(=O)CCC=C  	green	The Good Scents Company Information System
+2-methyl-6-propoxypyrazine	CCCOC1=NC(=CN=C1)C  	green	The Good Scents Company Information System
+2-methyl-5-isopropyl pyrazine	CC1=CN=C(C=N1)C(C)C 	green	The Good Scents Company Information System
+2-methyl thiazole	CC1=NC=CS1  	green	The Good Scents Company Information System
+2-methyl-2-octenal	CCCCC/C=C(\C)/C=O  	green	The Good Scents Company Information System
+1,5-nonadien-4-yl acetate	CCCC=CC(CC=C)OC(=O)C 	green	The Good Scents Company Information System
+2,4-nonadienal	CCCC/C=C/C=C/C=O 	green	The Good Scents Company Information System
+2,6-nonadienal	CC/C=C\CC/C=C/C=O  	green	The Good Scents Company Information System
+(E,E)-2,6-nonadienal	 CC/C=C/CC/C=C/C=O  	green	The Good Scents Company Information System
+(E,Z)-2,6-nonadienal	CC/C=C\CC/C=C/C=O	green	The Good Scents Company Information System
+(E,Z)-2,6-nonadien-1-ol	CC/C=C\CC/C=C/CO  	green	The Good Scents Company Information System
+3,6-nonadien-1-ol	CCC=CCC=CCCO	green	The Good Scents Company Information System
+(E,Z)-3,6-nonadien-1-ol	CC/C=C\C/C=C/CCO	green	The Good Scents Company Information System
+(Z,Z)-3,6-nonadien-1-ol	CCC=CCC=CCCO  	green	The Good Scents Company Information System
+(E,Z)-2,6-nonadien-1-yl acetate	CC/C=C\CC/C=C\COC(=O)C  	green	The Good Scents Company Information System
+(E,Z)-3,6-nonadien-1-yl acetate	CC/C=C\C/C=C/CCOC(=O)C 	green	The Good Scents Company Information System
+2,4,6-nonatrienal	 CC/C=C/C=C/C=C/C=O  	green	The Good Scents Company Information System
+(Z)-3-nonenal	CCCCC/C=C\CC=O  	green	The Good Scents Company Information System
+(Z)-6-nonenal	CC/C=C\CCCCC=O  	green	The Good Scents Company Information System
+2-nonene nitrile	CCCCCCC(=C(C)C#N)C  	green	The Good Scents Company Information System
+(E)-2-nonen-1-ol	CCCCCC/C=C/CO  	green	The Good Scents Company Information System
+(Z)-2-nonen-1-ol	CCCCCC/C=C\CO  	green	The Good Scents Company Information System
+(E)-3-nonen-1-ol	CCCCC/C=C/CCO 	green	The Good Scents Company Information System
+(Z)-6-nonen-1-ol	CC/C=C\CCCCCO  	green	The Good Scents Company Information System
+2-nonyn-1-al dimethyl acetal	CCCCCCC#CC(OC)OC	green	The Good Scents Company Information System
+2,4-octadienal	CCC/C=C/C=C/C=O  	green	The Good Scents Company Information System
+(E,E)-2,6-octadienal	C/C=C/CC/C=C/C=O  	green	The Good Scents Company Information System
+(Z)-1,5-octadien-3-ol	CC/C=C\CC(C=C)O  	green	The Good Scents Company Information System
+(E,Z)-3,5-octadien-2-one	CC/C=C\C=C\C(=O)C  	green	The Good Scents Company Information System
+(E)-2-octenal	 CCCCC/C=C/C=O  	green	The Good Scents Company Information System
+(E)-6-octenal	C/C=C/CCCCC=O  	green	The Good Scents Company Information System
+2-octen-1-ol	CC(CCC=C(C)C)CCO  	green	The Good Scents Company Information System
+(E)-2-octen-1-ol	CCCCC/C=C/CO  	green	The Good Scents Company Information System
+(Z)-5-octen-1-ol	CC/C=C\CCCCO 	green	The Good Scents Company Information System
+(E)-2-octen-1-yl acetate	 CCCCC/C=C/COC(=O)C 	green	The Good Scents Company Information System
+1-octen-3-yl acetate	CCCCCC(C=C)OC(=O)C 	green	The Good Scents Company Information System
+3-octyl formate	CCCCCCCCOC=O  	green	The Good Scents Company Information System
+(E)-2-pentenal	CC/C=C/C=O  	green	The Good Scents Company Information System
+(Z)-2-penten-1-ol	CC/C=C\CO  	green	The Good Scents Company Information System
+1-phenyl-2-pentanol	CCCC(CC1=CC=CC=C1)O  	green	The Good Scents Company Information System
+2-phenyl propionaldehyde	CC(C=O)C1=CC=CC=C1  	green	The Good Scents Company Information System
+(E,E)-sorbyl acetate	C/C=C/C=C/COC(=O)C	green	The Good Scents Company Information System
+(E,E)-sorbyl isobutyrate	C/C=C/C=C/COC(=O)C(C)C  	green	The Good Scents Company Information System
+(E)-tiglaldehyde	C/C=C(\C)/C=O  	green	The Good Scents Company Information System
+2,2,4-trimethyl-1,3-oxathiane	CC1CCOC(S1)(C)C  	green	The Good Scents Company Information System
+2,4,4-trimethyl-1,3-oxathiane	CC1OCCC(S1)(C)C  	green	The Good Scents Company Information System
+2,4-undecadienal	CCCCCC/C=C/C=C/C=O  	green	The Good Scents Company Information System
+1,5-undecadien-4-ol	 CCCCCC=CC(CC=C)O  	green	The Good Scents Company Information System
+3,5-undecadien-2-one	CCCCC/C=C/C=C/C(=O)C  	green	The Good Scents Company Information System
+alpha-butyl cinnamaldehyde	CCCC/C(=C\C1=CC=CC=C1)/C=O  	green	The Good Scents Company Information System
+isobutyl octanoate	CCCCCCCC(=O)OCC(C)C  	green	The Good Scents Company Information System
+2-butyl-2-octenal	CCCCC/C=C(/CCCC)\C=O  	green	The Good Scents Company Information System
+Iso butyl propionate	 CCC(=O)OCC(C)C  	green	The Good Scents Company Information System
+2-tert-butyl pyrazine	CC(C)(C)C1=NC=CN=C1  	green	The Good Scents Company Information System
+3-butylidene phthalide	CCC/C=C\1/C2=CC=CC=C2C(=O)O1  	green	The Good Scents Company Information System
+2-cyclopentyl cyclopentanone	C1CCC(C1)C2CCCC2=O  	green	The Good Scents Company Information System
+(E)-6-decenal	CCC/C=C/CCCCC=O  	green	The Good Scents Company Information System
+(Z)-4-decenoic acid	CCCCC/C=C\CCC(=O)O 	green	The Good Scents Company Information System
+(Z)-5-decenoic acid	CCCC/C=C\CCCC(=O)O  	green	The Good Scents Company Information System
+9-decenoic acid	C=CCCCCCCCC(=O)O  	green	The Good Scents Company Information System
+3-decen-2-one	CCCCCC/C=C/C(=O)C 	green	The Good Scents Company Information System
+iso decyl acetate	CC(C)CCCCCCCOC(=O)C  	green	The Good Scents Company Information System
+1,4-dibutyl-6,8-dioxabicyclo(3.2.1)octane	CCCCC1CCC2(COC1O2)CCCC  	green	The Good Scents Company Information System
+2,4-diethyl-5-propyl oxazole	CCCC1=C(N=C(O1)CC)CC  	green	The Good Scents Company Information System
+2,5-diethyl-4-propyl thiazole	CCCC1=C(SC(=N1)CC)CC	green	The Good Scents Company Information System
+3,6-dimethylheptan-2-ol	CC(C)CCC(C)C(C)O  	green	The Good Scents Company Information System
+(E,Z)-2,6-dodecadienal	CCCCC/C=C\CC/C=C/C=O 	green	The Good Scents Company Information System
+4-ethyl 1-(3-methoxy-2-propen-1-yl) benzene	CCC1=CC=C(C=C1)CC=COC 	green	The Good Scents Company Information System
+(E,E)-ethyl sorbate	CCOC(=O)/C=C/C=C/C  	green	The Good Scents Company Information System
+beta-eudesmol	C[C@]12CCCC(=C)[C@@H]1C[C@@H](CC2)C(C)(C)O  	green	The Good Scents Company Information System
+alpha-farnesene	CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C  	green	The Good Scents Company Information System
+alpha-farnesene isomer	CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C	green	The Good Scents Company Information System
+(E,E)-2,4-heptadienal	CC/C=C/C=C/C=O	green	The Good Scents Company Information System
+(Z)-4-hepten-2-yl salicylate	CC/C=C\CC(C)OC(=O)C1=CC=CC=C1O	green	The Good Scents Company Information System
+(Z)-3-hepten-1-ol	CCC/C=C\CCO	green	The Good Scents Company Information System
+1-hepten-3-ol	CCCCC(C=C)O	green	The Good Scents Company Information System
+2-heptyl butyrate	CCCCCC(C)OC(=O)CCC	green	The Good Scents Company Information System
+heptyl isobutyrate	CCCCCCCOC(=O)C(C)C	green	The Good Scents Company Information System
+heptyl valerate	CCCCCCCOC(=O)CCCC	green	The Good Scents Company Information System
+2,4-hexadienal	C/C=C/C=C/C=O	green	The Good Scents Company Information System
+(S)-(+)-2-hexanol	CCCC[C@H](C)O	green	The Good Scents Company Information System
+(E)-3-hexenoic acid	CC/C=C/CC(=O)O	green	The Good Scents Company Information System
+2-hexen-1-ol	CCC/C=C/CO	green	The Good Scents Company Information System
+1-hexen-3-ol	CCCC(C=C)O	green	The Good Scents Company Information System
+(E)-2-hexen-1-yl acetate	CCC/C=C/COC(=O)C	green	The Good Scents Company Information System
+(E)-3-hexen-1-yl acetate	CC/C=C/CCOC(=O)C	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl isobutyrate	CC/C=C\CCOC(=O)C(C)C	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl hexanoate	CCCCCC(=O)OCC/C=C\CC	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl 2-methyl butyrate	CC/C=C\CCOC(=O)C(C)CC	green	The Good Scents Company Information System
+(Z)-3-hexen-1-yl isovalerate	CC/C=C\CCOC(=O)CC(C)C	green	The Good Scents Company Information System
+hexyl acetate	CCCCCCOC(=O)C	green	The Good Scents Company Information System
+alpha-hexyl cinnamaldehyde	CCCCCC/C(=C\C1=CC=CC=C1)/C=O	green	The Good Scents Company Information System
+hexyl heptanoate	CCCCCCC(=O)OCCCCCC	green	The Good Scents Company Information System
+hexyl (E)-2-hexenoate	CCCCCCOC(=O)/C=C/CCC	green	The Good Scents Company Information System
+hexyl lactate	CCCCCCOC(=O)C(C)O	green	The Good Scents Company Information System
+hexyl octanoate	CCCCCCCC(=O)OCCCCCC	green	The Good Scents Company Information System
+hexyl propionate	CCCCCCOC(=O)CC	green	The Good Scents Company Information System
+2-hydroxy-5-pentyl tetrahydrofuran	CCCCCC1CCC(O1)O	green	The Good Scents Company Information System
+2,4-ivy carbaldehyde	CC1C=C(CCC1C=O)C	green	The Good Scents Company Information System
+limonene aldehyde	CC1=CCC(CC1)C(C)CC=O 	green	The Good Scents Company Information System
+linalyl phenyl acetate	CC(=CCCC(C)(C=C)OC(=O)CC1=CC=CC=C1)C	green	The Good Scents Company Information System
+methacrolein	CC(=C)C=O	green	The Good Scents Company Information System
+methyl R-3-acetoxyhexanoate	CCC[C@H](CC(=O)OC)OC(=O)C	green	The Good Scents Company Information System
+3-methyl-2-butenal	CC(=CC=O)C	green	The Good Scents Company Information System
+3-methyl crotonic acid	CC(=CC(=O)O)C	green	The Good Scents Company Information System
+(E)-methyl geranate	CC(=CCC/C(=C/C(=O)OC)/C)C	green	The Good Scents Company Information System
+methyl heptanoate	CCCCCCC(=O)OC	green	The Good Scents Company Information System
+2-methyl-3-heptanone	CCCCC(=O)C(C)C	green	The Good Scents Company Information System
+methyl heptenone	CC(=CCCC(=O)C)C	green	The Good Scents Company Information System
+6-methyl-3-hepten-2-one	CC(C)C/C=C/C(=O)C	green	The Good Scents Company Information System
+methyl (E)-2-hexenoate	CCC/C=C/C(=O)OC	green	The Good Scents Company Information System
+methyl 3-hydroxybutyrate	CC(CC(=O)OC)O	green	The Good Scents Company Information System
+4-methyl 1-(3-methoxy-2-propen-1-yl) benzene	CC1=CC=C(C=C1)CC=COC	green	The Good Scents Company Information System
+2-methyl-5-methoxythiazole	CC1=NC=C(S1)OC	green	The Good Scents Company Information System
+methyl 3-nonenoate	CCCCCC=CCC(=O)OC	green	The Good Scents Company Information System
+methyl octadienoate	CCCC=CC=CC(=O)OC	green	The Good Scents Company Information System
+6-methyl octanal	CCC(C)CCCCC=O	green	The Good Scents Company Information System
+methyl octanoate	CCCCCCCC(=O)OC	green	The Good Scents Company Information System
+(E)-2-methyl-2-octenal	CCCCC/C=C(\C)/C=O	green	The Good Scents Company Information System
+2-methyl-2-pentenal	CC/C=C(\C)/C=O	green	The Good Scents Company Information System
+(Z)-4-methyl-2-pentene	C/C=C\C(C)C	green	The Good Scents Company Information System
+4-methyl-4-phenyl-2-pentanol	CC(CC(C)(C)C1=CC=CC=C1)O	green	The Good Scents Company Information System
+2-methyl valeraldehyde	CCCC(C)C=O	green	The Good Scents Company Information System
+nerolidol	CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C	green	The Good Scents Company Information System
+(E)-nerolidol	CC(=CCC/C(=C/CCC(C)(C=C)O)/C)	green	The Good Scents Company Information System
+nerolidyl isobutyrate	CC(C)C(=O)OC(C)(CC/C=C(\C)/CCC=C(C)C)C=C	green	The Good Scents Company Information System
+3,6-nonadien-1-yl acetate	CC/C=C/C/C=C/CCOC(=O)C	green	The Good Scents Company Information System
+2-nonanol	CCCCCCCC(C)O	green	The Good Scents Company Information System
+(E)-2-nonenal	CCCCCC/C=C/C=O	green	The Good Scents Company Information System
+(Z)-3-nonen-1-ol	CCCCC/C=C\CCO	green	The Good Scents Company Information System
+5-norbornene-2-carboxylic acid	C1C2CC(C1C=C2)C(=O)O	green	The Good Scents Company Information System
+ocean propanal	CC(CC1=CC2=C(C=C1)OCO2)C=O	green	The Good Scents Company Information System
+(E,E)-3,5-octadien-2-one	CC/C=C/C=C/C(=O)C	green	The Good Scents Company Information System
+octanal dimethyl acetal	CCCCCCCC(OC)OC	green	The Good Scents Company Information System
+octanol	CCCCCCCCO	green	The Good Scents Company Information System
+2-octanol	CCCCCCC(C)O	green	The Good Scents Company Information System
+2-octenal	CCCCC/C=C/C=O	green	The Good Scents Company Information System
+(Z)-6-octenal	C/C=C\CCCCC=O	green	The Good Scents Company Information System
+3-octyl butyrate	CCCCCC(CC)OC(=O)CCC	green	The Good Scents Company Information System
+octyl isobutyrate	CCCCCCCCOC(=O)C(C)C	green	The Good Scents Company Information System
+papaya isobutyrate	CC(C)C(=O)OC(C)(C)CCC1=CC=CC=C1	green	The Good Scents Company Information System
+2-pentyl furan	CCCCCC1=CC=CO1	green	The Good Scents Company Information System
+phenethyl formate	C1=CC=C(C=C1)CCOC=O	green	The Good Scents Company Information System
+phenethyl octanoate	CCCCCCCC(=O)OCCC1=CC=CC=C1	green	The Good Scents Company Information System
+2-phenethyl isothiocyanate	C1=CC=C(C=C1)CCN=C=S	green	The Good Scents Company Information System
+4-phenyl-2-butyl acetate	CC(CCC1=CC=CC=C1)OC(=O)C	green	The Good Scents Company Information System
+3-phenyl propionaldehyde	C1=CC=C(C=C1)CCC=O	green	The Good Scents Company Information System
+3-phenyl propyl hexanoate	CCCCCC(=O)OCCCC1=CC=CC=C1	green	The Good Scents Company Information System
+prenyl hexanoate	CCCCCC(=O)OCC=C(C)C	green	The Good Scents Company Information System
+prenyl senecioate	CC(=CCOC(=O)C=C(C)C)C	green	The Good Scents Company Information System
+propyl formate	CCCOC=O	green	The Good Scents Company Information System
+4-propyl 1-(3-methoxy-2-propen-1-yl) benzene	CCCC1=CC=C(C=C1)CC=COC	green	The Good Scents Company Information System
+propylene glycol monohexanoate	CCCCCC(=O)OC(C)CO	green	The Good Scents Company Information System
+(Z)-rose oxide	CC1CCOC(C1)C=C(C)C	green	The Good Scents Company Information System
+sorbyl butyrate	CCCC(=O)OC/C=C/C=C/C	green	The Good Scents Company Information System
+terpinyl propionate	CCC(=O)OC(C)(C)C1CCC(=CC1)C	green	The Good Scents Company Information System
+tetrahydrocitral	CC(C)CCCC(C)CC=O	green	The Good Scents Company Information System
+tetrahydrofurfuryl butyrate	CCCC(=O)OCC1CCCO1	green	The Good Scents Company Information System
+4,4'-thiobis-2-butanone	CC(=O)CCSCCC(=O)C	green	The Good Scents Company Information System
+alpha-thujene	CC1=CCC2(C1C2)C(C)C	green	The Good Scents Company Information System
+verdyl acetate	CC(=O)OC1CC2CC1C3C2C=CC3	green	The Good Scents Company Information System
+viridiflorol	C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O	green	The Good Scents Company Information System
+acetaldehyde	CC=O	green	The Good Scents Company Information System
+acetaldehyde dimethyl acetal	CC(OC)OC	green	The Good Scents Company Information System
+allyl cyclohexyl acetate	C=CCOC(=O)CC1CCCCC1	green	The Good Scents Company Information System
+allyl octanoate	CCCCCCCC(=O)OCC=C	green	The Good Scents Company Information System
+iso amyl acetate	CC(C)CCOC(=O)C	green	The Good Scents Company Information System
+iso amyl benzoate	CC(C)CCOC(=O)C1=CC=CC=C1	green	The Good Scents Company Information System
+alpha-amyl cinnamaldehyde dimethyl acetal	CCCCC/C(=C\C1=CC=CC=C1)/C(OC)OC	green	The Good Scents Company Information System
+amyl hexanoate	CCCCCC(=O)OCCCCC	green	The Good Scents Company Information System
+iso amyl octanoate	CCCCCCCC(=O)OCCC(C)C	green	The Good Scents Company Information System
+amyl salicylate	CCCCCOC(=O)C1=CC=CC=C1O	green	The Good Scents Company Information System
+benzyl tiglate	C/C=C(\C)/C(=O)OCC1=CC=CC=C1	green	The Good Scents Company Information System
+butyl isobutyrate	CCCCOC(=O)C(C)C	green	The Good Scents Company Information System
+butyl 2-decenoate	CCCCCCC/C=C/C(=O)OCCCC	green	The Good Scents Company Information System
+iso butyl hexanoate	CCCCCC(=O)OCC(C)C	green	The Good Scents Company Information System
+butyl 2-methyl butyrate	CCCCOC(=O)C(C)CC	green	The Good Scents Company Information System
+S-sec-butyl thioisovalerate	CCC(C)SC(=O)CC(C)C	green	The Good Scents Company Information System
+butyl valerate	CCCCC(=O)OCCCC	green	The Good Scents Company Information System
+butyraldehyde	CCCC=O	green	The Good Scents Company Information System
+celery ketone	CCCC1CC(=CC(=O)C1)C	green	The Good Scents Company Information System
+cinnamyl propionate	CCC(=O)OC/C=C/C1=CC=CC=C1	green	The Good Scents Company Information System
+cinnamyl tiglate	C/C=C(\C)/C(=O)OC/C=C/C1=CC=CC=C1	green	The Good Scents Company Information System
+citronellyl isobutyrate	CC(C)C(=O)OCCC(C)CCC=C(C)C	green	The Good Scents Company Information System
+2-cyclohexenone	C1CC=CC(=O)C1	green	The Good Scents Company Information System
+cyclohexyl propionate	CCC(=O)OC1CCCCC1	green	The Good Scents Company Information System
+(Z)-6-decenal	CCC/C=C\CCCCC=O	green	The Good Scents Company Information System
+dimethyl benzyl carbinol	CC(C)(CC1=CC=CC=C1)O	green	The Good Scents Company Information System
+6,8-dimethyl-2-nonanol	CC(C)CC(C)CCCC(C)O	green	The Good Scents Company Information System
+dimethyl succinate	COC(=O)CCC(=O)OC	green	The Good Scents Company Information System
+(E,E)-2,4-dodecadien-1-ol	CCCCCCC/C=C/C=C/CO	green	The Good Scents Company Information System
+2,3-epoxyheptanal	CCCC[C@H]1[C@@H](O1)C=O	green	The Good Scents Company Information System
+ethyl 2-ethyl acetoacetate	CCCCOC(=O)CC(=O)C	green	The Good Scents Company Information System
+(E)-ethyl geranate	CCOC(=O)/C=C(\C)/CCC=C(C)C	green	The Good Scents Company Information System
+ethyl 2-hexenoate	CCC/C=C/C(=O)OCC	green	The Good Scents Company Information System
+ethyl 3-hexenoate	CC/C=C/CC(=O)OCC	green	The Good Scents Company Information System
+2-ethyl-3-methoxypyrazine	CCC1=NC=CN=C1OC	green	The Good Scents Company Information System
+ethyl 2-methyl butyrate	CCC(C)C(=O)OCC	green	The Good Scents Company Information System
+ethyl (E)-2-octenoate	CCCCC/C=C/C(=O)OCC	green	The Good Scents Company Information System
+furfuryl butyrate	CCCC(=O)OCC1=CC=CO1	green	The Good Scents Company Information System
+2-furyl pentyl ketone	CCCCCC(=O)C1=CC=CO1	green	The Good Scents Company Information System
+geranyl isobutyrate	CC(C)C(=O)OC/C=C(\C)/CCC=C(C)C	green	The Good Scents Company Information System
+geranyl ethyl ether	CCOC/C=C(\C)/CCC=C(C)C	green	The Good Scents Company Information System
+grape butyrate	CCOC(=O)CC(C)O	green	The Good Scents Company Information System
+delta-heptalactone	CCC1CCCC(=O)O1	green	The Good Scents Company Information System
+heptanal (aldehyde C-7)	CCCCCCC=O	green	The Good Scents Company Information System
+heptanal cyclic acetal with glycerol	CCCCCCCOCC(=O)CO	green	The Good Scents Company Information System
+1-heptanol	CCCCCCCO	green	The Good Scents Company Information System
+(Z)-4-heptenal	CC/C=C\CCC=O	green	The Good Scents Company Information System
+(E)-2-hepten-1-ol	CCCC/C=C/CO	green	The Good Scents Company Information System
+4-hexen-3-one	CCC(=O)/C=C/C	green	The Good Scents Company Information System
+hexyl 2-furoate	CCCCCCOC(=O)C1=CC=CO1	green	The Good Scents Company Information System
+hexyl salicylate	CCCCCCOC(=O)C1=CC=CC=C1O	green	The Good Scents Company Information System
+hexyl valerate	CCCCCCOC(=O)CCCC	green	The Good Scents Company Information System
+hydroxycitronellal	CC(CCCC(C)(C)O)CC=O	green	The Good Scents Company Information System
+hydroxycitronellol	CC(CCCC(C)(C)O)CCO	green	The Good Scents Company Information System
+linalyl octanoate	CCCCCCCC(=O)OC(C)(CCC=C(C)C)C=C	green	The Good Scents Company Information System
+mesitene lactone	CC1=CC(=O)OC(=C1)C	green	The Good Scents Company Information System
+methoxycitronellal	CC(CCCC(C)(C)OC)CC=O	green	The Good Scents Company Information System
+methyl acetoacetate	CC(=O)CC(=O)OC	green	The Good Scents Company Information System
+methyl 3-acetoxyoctanoate	CCCCCC(CC(=O)OC)OC(=O)C	green	The Good Scents Company Information System
+2-methyl butyl 2-methyl butyrate	CCC(C)COC(=O)C(C)CC	green	The Good Scents Company Information System
+methyl ethyl disulfide	CCSSC	green	The Good Scents Company Information System
+(S)-4-methyl-1-hexanol	CC[C@H](C)CCCO	green	The Good Scents Company Information System
+methyl (E)-3-nonenoate	CCCCC/C=C/CC(=O)OC	green	The Good Scents Company Information System
+methyl (E)-2-octenoate	CCCCC/C=C/C(=O)OC	green	The Good Scents Company Information System
+4-methyl-2-pentenal	CC(C)/C=C/C=O	green	The Good Scents Company Information System
+methyl propyl sulfide	CCCSC	green	The Good Scents Company Information System
+3-(methyl thio) hexanol	CCCC(CCO)SC	green	The Good Scents Company Information System
+methyl 2-undecynoate	CCCCCCCCC#CC(=O)OC	green	The Good Scents Company Information System
+8-methylnonanal	CC(C)CCCCCCC=O	green	The Good Scents Company Information System
+muguet carbinol	CC(C)(CCC1=CC=CC=C1)O	green	The Good Scents Company Information System
+nerol	CC(=CCC/C(=C\CO)/C)C	green	The Good Scents Company Information System
+neryl propionate	CCC(=O)OC/C=C(/C)\CCC=C(C)C	green	The Good Scents Company Information System
+2,4-nonadien-1-ol	CCCC/C=C/C=C/CO	green	The Good Scents Company Information System
+nonanal dimethyl acetal	CCCCCCCCC(OC)OC	green	The Good Scents Company Information System
+3-nonanone	CCCCCCC(=O)CC	green	The Good Scents Company Information System
+(E)-2-nonen-1-ol	CCCCCC/C=C/CO	green	The Good Scents Company Information System
+1-nonen-3-ol	CCCCCCC(C=C)O	green	The Good Scents Company Information System
+nonyl acetate	CCCCCCCCCOC(=O)C	green	The Good Scents Company Information System
+ocimene quintoxide	C/C=C(\C)/C1CCC(O1)(C)C	green	The Good Scents Company Information System
+(Z)-2-octenal	CCCCC/C=C\C=O	green	The Good Scents Company Information System
+1-octen-3-ol	CCCCCC(C=C)O	green	The Good Scents Company Information System
+(Z)-5-octen-1-yl acetate	CC/C=C\CCCCOC(=O)C	green	The Good Scents Company Information System
+octyl butyrate	CCCCCCCCOC(=O)CCC	green	The Good Scents Company Information System
+octyl 2-methyl butyrate	CCCCCCCCOC(=O)C(C)CC	green	The Good Scents Company Information System
+1-penten-3-ol	CCC(C=C)O	green	The Good Scents Company Information System
+2-pentyl pyridine	CCCCCC1=CC=CC=N1	green	The Good Scents Company Information System
+phenethyl butyrate	CCCC(=O)OCCC1=CC=CC=C1	green	The Good Scents Company Information System
+phenyl acetaldehyde digeranyl acetal	CC(=CCC/C(=C/COC(OC/C=C(/CCC=C(C)C)\C)CC1=CC=CC=C1)/C)C	green	The Good Scents Company Information System
+2-phenyl-2-pentenal	CCC=C(C=O)C1=CC=CC=C1	green	The Good Scents Company Information System
+prenol	CC(=CCO)C	green	The Good Scents Company Information System
+prenyl ethyl ether	CCOCC=C(C)C	green	The Good Scents Company Information System
+prenyl salicylate	CC(=CCOC(=O)C1=CC=CC=C1O)C	green	The Good Scents Company Information System
+propyl 2,4-decadienoate	CCCCC/C=C/C=C/C(=O)OCCC	green	The Good Scents Company Information System
+3-(4-propyl phenyl) propionaldehyde	CCCC1=CC=C(C=C1)CCC=O	green	The Good Scents Company Information System
+propylene glycol acetone ketal	CC1COC(O1)(C)C	green	The Good Scents Company Information System
+theaspirane	CC1CCC2(O1)C(=CCCC2(C)C)C	green	The Good Scents Company Information System
+4,4,6-trimethyl-2-phenyl-1,3-dioxane	CC1CC(OC(O1)C2=CC=CC=C2)(C)C 	green	The Good Scents Company Information System
+tropical thiazole	CC1=CSC(=N1)C(C)C	green	The Good Scents Company Information System
+acetal	CCOC(C)OCC	green	The Good Scents Company Information System
+acetaldehyde diisoamyl acetal	CC(C)CCOC(C)OCCC(C)C	green	The Good Scents Company Information System
+alpha-allyl-4-methyl-3-cyclohexene methanol	CC1=CCC(CC1)C(CC=C)O	green	The Good Scents Company Information System
+allyl thiopropionate	CCC(=O)SCC=C	green	The Good Scents Company Information System
+3-allylthio-2,6-dimethyl-4-heptanone	CC(C)CC(=O)C(C(C)C)SCC=C	green	The Good Scents Company Information System
+iso amyl isobutyrate	CC(C)CCOC(=O)C(C)C	green	The Good Scents Company Information System
+amyl formate	CCCCCOC=O	green	The Good Scents Company Information System
+para-anisyl methyl ketone	CC(=O)CC1=CC=C(C=C1)OC	green	The Good Scents Company Information System
+benzyl disulfide	C1=CC=C(C=C1)CSSCC2=CC=CC=C2	green	The Good Scents Company Information System
+benzyl methyl ether	COCC1=CC=CC=C1	green	The Good Scents Company Information System
+butyl butyrate	CCCCOC(=O)CCC	green	The Good Scents Company Information System
+cinnamyl formate	C1=CC=C(C=C1)/C=C/COC=O	green	The Good Scents Company Information System
+cinnamyl isovalerate	CC(C)CC(=O)OC/C=C/C1=CC=CC=C1	green	The Good Scents Company Information System
+citronellyl butyrate	CCCC(=O)OCCC(C)CCC=C(C)C	green	The Good Scents Company Information System
+citronellyl valerate	CCCCC(=O)OCCC(C)CCC=C(C)C 	green	The Good Scents Company Information System
+cuminyl nitrile	CC(C)C1=CC=C(C=C1)C#N	green	The Good Scents Company Information System
+cyclamen aldehyde	CC(C)C1=CC=C(C=C1)CC(C)C=O	green	The Good Scents Company Information System
+cyclododecyl acetate	CC(=O)OC1CCCCCCCCCCC1	green	The Good Scents Company Information System
+cyclohexyl crotonate	C/C=C/C(=O)OC1CCCCC1	green	The Good Scents Company Information System
+cyclohexyl salicylate	C1CCC(CC1)OC(=O)C2=CC=CC=C2O	green	The Good Scents Company Information System
+gamma-damascone	C/C=C/C(=O)C1C(=C)CCCC1(C)C	green	The Good Scents Company Information System
+2,4-decadienal	CCCCC/C=C/C=C/C=O	green	The Good Scents Company Information System
+(E,Z)-2,4-decadienal	CCCCC/C=C\C=C\C=O	green	The Good Scents Company Information System
+alpha-decalactone	CCCCCCC1CCOC1=O	green	The Good Scents Company Information System
+decanal dimethyl acetal	CCCCCCCCCC(OC)OC	green	The Good Scents Company Information System
+3,7-dimethyl-6-octenoic acid	CC(CCC=C(C)C)CC(=O)O	green	The Good Scents Company Information System
+4,5-dimethyl thiazole	CC1=C(SC=N1)C	green	The Good Scents Company Information System
+gamma-dodecalactone	CCCCCCCCC1CCC(=O)O1	green	The Good Scents Company Information System
+estragole	COC1=CC=C(C=C1)CC=C 	green	The Good Scents Company Information System
+ethyl acetate	CCOC(=O)C	green	The Good Scents Company Information System
+ethyl linalool	CC/C(=C/CCC(C)(C=C)O)/C	green	The Good Scents Company Information System
+ethyl valerate	CCCCC(=O)OCC	green	The Good Scents Company Information System
+geosmin	C[C@H]1CCC[C@@]2([C@@]1(CCCC2)O)C	green	The Good Scents Company Information System
+geranyl acetone	CC(=CCC/C(=C/CCC(=O)C)/C)C 	green	The Good Scents Company Information System
+guaiyl acetate	C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)(C)OC(=O)C  	green	The Good Scents Company Information System
+heptanal glyceryl acetal	CCCCCCC1OCC(O1)CO	green	The Good Scents Company Information System
+3-hepten-2-one	CCC/C=C/C(=O)C	green	The Good Scents Company Information System
+heptyl octanoate	CCCCCCCC(=O)OCCCCCCC	green	The Good Scents Company Information System
+hexyl pivalate	CCCCCCOC(=O)C(C)(C)C	green	The Good Scents Company Information System
+hydroxycitronellal dimethyl acetal	CC(CCCC(C)(C)O)CC(OC)OC	green	The Good Scents Company Information System
+linalool	CC(=CCCC(C)(C=C)O)C	green	The Good Scents Company Information System
+6-methoxy-2,6-dimethyl octanal	CCC(C)(CCCC(C)C=O)OC	green	The Good Scents Company Information System
+methyl benzyl disulfide	CSSCC1=CC=CC=C1	green	The Good Scents Company Information System
+methyl dihydrojasmonate	CCCCCC1C(CCC1=O)CC(=O)OC	green	The Good Scents Company Information System
+methyl 3-hexenoate	CC/C=C/CC(=O)OC	green	The Good Scents Company Information System
+methyl jasmonate	CC/C=C\C[C@@H]1[C@H](CCC1=O)CC(=O)OC	green	The Good Scents Company Information System
+methyl propyl trisulfide	CCCSSSC	green	The Good Scents Company Information System
+(E,E)-methyl sorbate	C/C=C/C=C/C(=O)OC	green	The Good Scents Company Information System
+3-methyl valeric acid	CCC(C)CC(=O)O	green	The Good Scents Company Information System
+neryl isobutyrate	CC(C)C(=O)OC/C=C(/C)\CCC=C(C)C 	green	The Good Scents Company Information System
+(E,E)-2,4-nonadienal	CCCC/C=C/C=C/C=O	green	The Good Scents Company Information System
+(Z)-6-nonen-1-yl acetate	CC/C=C\CCCCCOC(=O)C	green	The Good Scents Company Information System
+2-octanone oxime	CCCCCCC(=NO)C	green	The Good Scents Company Information System
+(S)-1-octen-3-ol	CCCCC[C@@H](C=C)O	green	The Good Scents Company Information System
+2-pentyl acetate	CCCC(C)OC(=O)C	green	The Good Scents Company Information System
+perillyl acetate	CC(=C)C1CCC(=CC1)COC(=O)C	green	The Good Scents Company Information System
+alpha-phellandrene	CC1=CCC(C=C1)C(C)C 	green	The Good Scents Company Information System
+phenethyl alcohol	C1=CC=C(C=C1)CCO	green	The Good Scents Company Information System
+phytyl acetate	C[C@@H](CCC[C@@H](C)CCC/C(=C/COC(=O)C)/C)CCCC(C)C	green	The Good Scents Company Information System
+3-[(4R)-4-(propan-2-yl)cyclohex-1-en-1-yl]propanal	CC(C)[C@@H]1CCC(=CC1)CCC=O 	green	The Good Scents Company Information System
+propyl decanoate	CCCCCCCCCC(=O)OCCC	green	The Good Scents Company Information System
+propyl hexanoate	CCCCCC(=O)OCCC	green	The Good Scents Company Information System
+propyl propionate	CCCOC(=O)CC 	green	The Good Scents Company Information System
+propyl thioacetate	CCCSC(=O)C	green	The Good Scents Company Information System
+sabinene hydrate	CC(C)C12CCC(C1C2)(C)O	green	The Good Scents Company Information System
+styralyl isobutyrate	CC(C)C(=O)OC(C)C1=CC=CC=C1	green	The Good Scents Company Information System
+styralyl propionate	CCC(=O)OC(C)C1=CC=CC=C1	green	The Good Scents Company Information System
+3-tetrahydrothiophenone	C1CSCC1=O	green	The Good Scents Company Information System
+tropical trithiane	CC1(SC(SC(S1)(C)C)(C)C)C	green	The Good Scents Company Information System
+iso amyl decanoate	CCCCCCCCCC(=O)OCCC(C)C	green	The Good Scents Company Information System
+butyl hexanoate	CCCCCC(=O)OCCCC	green	The Good Scents Company Information System
+butyl isovalerate	CCCCOC(=O)CC(C)C	green	The Good Scents Company Information System
+cinnamyl alcohol	C1=CC=C(C=C1)/C=C/CO	green	The Good Scents Company Information System
+citral	CC(=CCC/C(=C/C=O)/C)C	green	The Good Scents Company Information System
+9-decen-2-one	CC(=O)CCCCCCC=C	green	The Good Scents Company Information System
+2-decenal	CCCCCCC/C=C/C=O	green	The Good Scents Company Information System
+dimethyl benzyl carbinyl acetate	CC(=O)OC(C)(C)CC1=CC=CC=C1	green	The Good Scents Company Information System
+dodecanal (aldehyde C-12 lauric)	CCCCCCCCCCCC=O	green	The Good Scents Company Information System
+geranyl acetate	CC(=CCC/C(=C/COC(=O)C)/C)C	green	The Good Scents Company Information System
+glyceryl tribenzoate	C1=CC=C(C=C1)C(=O)OCC(COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3	green	The Good Scents Company Information System
+green hexanal	CC(CC=O)CC(C)(C)C	green	The Good Scents Company Information System
+2-hexenal	CCC/C=C/C=O	green	The Good Scents Company Information System
+hexyl cinnamate	CCCCCCOC(=O)/C=C/C1=CC=CC=C1	green	The Good Scents Company Information System
+hexyl nonanoate	CCCCCCCCC(=O)OCCCCCC	green	The Good Scents Company Information System
+2-hexyl thiophene	CCCCCCC1=CC=CS1	green	The Good Scents Company Information System
+3-mercaptooctanal	CCCCCC(CC=O)S	green	The Good Scents Company Information System
+methyl anthranilate / hexyl cinnamaldehyde schiff's base	COC(=O)C1=CC=CC=C1N	green	The Good Scents Company Information System
+methyl nerate	CC(=CCC/C(=C\C(=O)OC)/C)C	green	The Good Scents Company Information System
+4-methyl-4-phenyl pentanone	CC(=O)CC(C)(C)C1=CC=CC=C1	green	The Good Scents Company Information System
+2-methyl thiophene	CC1=CC=CS1	green	The Good Scents Company Information System
+1,5-octadien-3-ol	CC/C=C/CC(C=C)O	green	The Good Scents Company Information System
+octanal (aldehyde C-8)	CCCCCCCC=O	green	The Good Scents Company Information System
+3-octanone	CCCCCC(=O)CC	green	The Good Scents Company Information System
+1-octen-3-yl butyrate	CCCCCC(C=C)OC(=O)CCC	green	The Good Scents Company Information System
+ozone propanal	CCC=O.[O-][O+]=O	green	The Good Scents Company Information System
+phenethyl butyl ether	CCCCOCCC1=CC=CC=C1	green	The Good Scents Company Information System
+D-(+)-beta-pinene	CC1([C@@H]2CCC(=C)[C@H]1C2)C	green	The Good Scents Company Information System
+(-)-iso pulegol	C[C@@H]1CC[C@H]([C@@H](C1)O)C(=C)C 	green	The Good Scents Company Information System
+rhodinyl formate	CC(CCCC(=C)C)CCOC=O	green	The Good Scents Company Information System
+sabinene	CC(C)C12CCC(=C)C1C2	green	The Good Scents Company Information System
+(E)-2-undecenal	CCCCCCCC/C=C/C=O	green	The Good Scents Company Information System
+valencene	C[C@@H]1CCC=C2[C@]1(C[C@@H](CC2)C(=C)C)C 	green	The Good Scents Company Information System
+citronellol	CC(CCC=C(C)C)CCO	green	The Good Scents Company Information System
+citronellyl oxyacetaldehyde	C1=C(C(=CC(=C1O)N)O)N.Cl.Cl	green	The Good Scents Company Information System
+cyclohexyl carboxylic acid	C1CCC(CC1)C(=O)O	green	The Good Scents Company Information System
+3-decanone	CCCCCCCC(=O)CC	green	The Good Scents Company Information System
+(E)-4-decenal	CCCCC/C=C/CCC=O	green	The Good Scents Company Information System
+5(6)-decenoic acid	CCCC/C=C/CCCC(=O)O 	green	The Good Scents Company Information System
+4,6-dimethyl-alpha-allyl-3-cyclohexene methanol	CC1CC(=CCC1C(CC=C)O)C 	green	The Good Scents Company Information System
+(-)-alpha-fenchol	C[C@]12CC[C@H](C1)C([C@H]2O)(C)C	green	The Good Scents Company Information System
+2-heptanol	CCCCCC(C)O	green	The Good Scents Company Information System
+(Z)-4-hepten-1-ol	CC/C=C\CCCO	green	The Good Scents Company Information System
+hexanol	CCCCCCO	green	The Good Scents Company Information System
+hexyl 2-methyl-3-pentenoate	CCCCCCOC(=O)C(C)/C=C/C	green	The Good Scents Company Information System
+jasmin absolute (from chassis)	C/C=C/CC1=C(CCC1)C	green	The Good Scents Company Information System
+(Z)-jasmone	CC/C=C\CC1=C(CCC1=O)C	green	The Good Scents Company Information System
+jasmopyrane (Givaudan)	CCCCCC1COCCC1OC(=O)C	green	The Good Scents Company Information System
+mandarine undecenal	C/C=C/CCCCCCCC=O	green	The Good Scents Company Information System
+(-)-menthone	C[C@@H]1CC[C@H](C(=O)C1)C(C)C	green	The Good Scents Company Information System
+homomenthyl acetate	CC1CC(CC(C1)(C)C)OC(=O)C	green	The Good Scents Company Information System
+methoxymelonal	CC(CCCC(C)(C)OC)C=O	green	The Good Scents Company Information System
+2-methoxy-3-methyl pyrazine	CC1=NC=CN=C1OC	green	The Good Scents Company Information System
+methyl (Z)-4-decenoate	CCCCC/C=C\CCC(=O)OC	green	The Good Scents Company Information System
+4-methyl-2-(2-methyl-1-propenyl)-1,3-dioxane	CC1CCOC(O1)C=C(C)C	green	The Good Scents Company Information System
+(4E,9Z)-13-methyloxacyclopentadeca-4,9-dien-2-one	CC1CC/C=C\CCC/C=C/CC(=O)OCC1	green	The Good Scents Company Information System
+4-methyl thiazole	CC1=CSC=N1	green	The Good Scents Company Information System
+2-nonanone	CCCCCCCC(=O)C	green	The Good Scents Company Information System
+2,4-octadienal	CCC/C=C/C=C/C=O	green	The Good Scents Company Information System
+3-octyl acetate	CCCCCC(CC)OC(=O)C	green	The Good Scents Company Information System
+octyl 2-furoate	CCCCCCCCOC(=O)C1=CC=CO1	green	The Good Scents Company Information System
+phenethyl hexanoate	CCCCCC(=O)OCCC1=CC=CC=C1	green	The Good Scents Company Information System
+phenyl pyruvic acid	C1=CC=C(C=C1)CC(=O)C(=O)O	green	The Good Scents Company Information System
+beta-pinene	CC1(C2CCC(=C)C1C2)C	green	The Good Scents Company Information System
+laevo-beta-pinene	CC1(C2CCC(=C)C1C2)C 	green	The Good Scents Company Information System
+pinocarveol	CC1(C2CC1C(=C)C(C2)O)C 	green	The Good Scents Company Information System
+iso propyl butyrate	CCCC(=O)OC(C)C	green	The Good Scents Company Information System
+rhodinyl phenyl acetate	C[C@@H](CCCC(=C)C)CCOC(=O)CC1=CC=CC=C1	green	The Good Scents Company Information System
+(E)-2-tetradecenal	CCCCCCCCCCC/C=C/C=O	green	The Good Scents Company Information System
+undecanal	CCCCCCCCCCC=O	green	The Good Scents Company Information System
+waxy lactone	CC/C=C\CCC1(CCC(=O)O1)C	green	The Good Scents Company Information System
+allyl cyclohexyl propionate	C=CCOC(=O)CCC1CCCCC1	green	The Good Scents Company Information System
+cassyrane	CCCC1(C=CC(O1)C)C(C)(C)C	green	The Good Scents Company Information System
+beta-cyclocitral	CC1=C(C(CCC1)(C)C)C=O	green	The Good Scents Company Information System
+decanal diethyl acetal	CCCCCCCCCC(OCC)OCC	green	The Good Scents Company Information System
+dimethyl octanol	CC(C)CCCC(C)CCO	green	The Good Scents Company Information System
+2-ethyl-4-methyl-1,3-oxathiane	CCC1OCCC(S1)C 	green	The Good Scents Company Information System
+linalyl formate	CC(=CCCC(C)(C=C)OC=O)C	green	The Good Scents Company Information System
+methyl nonanoate	CCCCCCCCC(=O)OC	green	The Good Scents Company Information System
+3-methyl-1-pentanol	CCC(C)CCO	green	The Good Scents Company Information System
+2-methyl pyrazine	CC1=NC=CN=C1	green	The Good Scents Company Information System
+octyl propionate	CCCCCCCCOC(=O)CC	green	The Good Scents Company Information System
+phenoxyethyl isobutyrate	CC(C)C(=O)OCCOC1=CC=CC=C1	green	The Good Scents Company Information System
+(Z)-8-tetradecenal	CCCCC/C=C\CCCCCCC=O	green	The Good Scents Company Information System
+ambroxan	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C	green	The Good Scents Company Information System
+iso amyl butyrate	CCCC(=O)OCCC(C)C	green	The Good Scents Company Information System
+iso amyl formate	CC(C)CCOC=O	green	The Good Scents Company Information System
+citronellyl formate	CC(CCC=C(C)C)CCOC=O	green	The Good Scents Company Information System
+delta-undecalactone	CCCCCCC1CCCC(=O)O1	green	The Good Scents Company Information System
