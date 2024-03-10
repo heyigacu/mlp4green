@@ -75,10 +75,3 @@ class GraphSAGEPredictor(nn.Module):
         graph_feats = self.readout(g, node_feats)
         return self.predict(graph_feats)
         
-
-
-# from feature import Graph_smiles
-# g = Graph_smiles('CC')
-# print(g)
-# model = MPNN(74, 12)
-# print(model(g, g.ndata['h'], g.edata['e']))
